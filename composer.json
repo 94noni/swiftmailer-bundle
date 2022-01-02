@@ -1,7 +1,7 @@
 {
     "name": "94noni/swiftmailer-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony SwiftmailerBundle (v6)",
+    "description": "Symfony SwiftmailerBundle (for Symfony v6)",
     "keywords": [],
     "homepage": "http://symfony.com",
     "license": "MIT",
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": ">=7.1",
+        "php": ">=8.0",
         "swiftmailer/swiftmailer": "^6.3",
         "symfony/dependency-injection": "^5.4|^6.0",
         "symfony/http-kernel": "^5.4|^6.0",
@@ -36,7 +36,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "3.5-dev"
+            "dev-main": "4.0-dev"
         }
     }
 }
