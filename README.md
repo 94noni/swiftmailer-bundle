@@ -1,4 +1,5 @@
 # swiftmailer-bundle
 
 Symfony Swiftmailer Bundle, fork of the original.
-Used for personal project to send email from CLI command, as Symfony Mailer fail to it for now in my specific usage.
+
+Used for personal projects to send email from CLI command, as Symfony Mailer is failing to it for now for my specific usage.
